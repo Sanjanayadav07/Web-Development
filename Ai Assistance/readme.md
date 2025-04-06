@@ -32,7 +32,7 @@ This is a simple voice-controlled web assistant using the Web Speech API. It can
 
 ## 📷 Screenshot
 
-![Screenshot](screenshot.png) <!-- Add screenshot image to your repo if needed -->
+![Screenshot](logo.png) <!-- Add screenshot image to your repo if needed -->
 
 ## 📄 License
 
@@ -42,5 +42,5 @@ This project is open-source and free to use.
 
 ### 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/sanjana__07) | [LinkedIn]()
+**Sanjana Yadav**  
+[GitHub](https://github.com/Sanjanayadav07) | [LinkedIn](www.linkedin.com/in/sanjana-yadav007)
