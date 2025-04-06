@@ -32,7 +32,8 @@ This is a simple voice-controlled web assistant using the Web Speech API. It can
 
 ## 📷 Screenshot
 
-![Screenshot](logo.png) <!-- Add screenshot image to your repo if needed -->
+![Screenshot](https://github.com/user-attachments/assets/50c30d21-7553-4bcf-83e4-960dce005bba)
+ <!-- Add screenshot image to your repo if needed -->
 
 ## 📄 License
 
