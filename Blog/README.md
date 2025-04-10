@@ -41,7 +41,7 @@ iBlog/
 
 ## Credits
 
-- Author: 
+- Author: Sanjana Yadav
 - Vector graphics: [Vecteezy](https://www.vecteezy.com/free-vector/typewriter)
 
 
