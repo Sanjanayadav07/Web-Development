@@ -12,7 +12,7 @@
 - 🎨 Styled using custom CSS files (utils, style, and mobile-specific styles)
 
 ## 📂 Project Structure
-
+```
 iBlog/
 ├── index.html               # Homepage with featured articles
 ├── about.html               # About the blog/project
@@ -32,7 +32,7 @@ iBlog/
 │   └── 11.svg               # Additional illustrations
 │
 └── README.md                # Project overview and instructions
-
+```
 
 ## How to Run
 
