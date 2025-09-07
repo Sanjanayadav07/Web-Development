@@ -18,7 +18,7 @@ This repository contains multiple mini-projects that demonstrate frontend develo
 ### 2. 🧠 AI Assistance
 - **Description**: A personal assistant project with AI-like responses.  
 - **Tech Stack**: HTML, CSS, JavaScript  
-- **Demo**: [Live Link](#)  
+- **Demo**: [Live Link](https://web-development-ai-assistent.vercel.app/)  
 - **Code**: [/Ai Assistance](./Ai%20Assistance)
 
 ---
