@@ -50,7 +50,7 @@ This repository contains multiple mini-projects that demonstrate frontend develo
 ### 6. 📝 Quiz App
 - **Description**: An interactive quiz application with multiple-choice questions and scoring.  
 - **Tech Stack**: HTML, CSS, JavaScript  
-- **Demo**: [Live Link](#)  
+- **Demo**: [Live Link](https://quiz-acsogks8r-sanjana-yadavs-projects-2b587eee.vercel.app/)  
 - **Code**: [/quiz-app](./quiz-app)
 
 ---
